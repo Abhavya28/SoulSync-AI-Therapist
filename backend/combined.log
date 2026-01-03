@@ -1,0 +1,12 @@
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-13T09:06:31.834Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-13T09:06:31.839Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-13T09:06:31.840Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-13T09:14:55.112Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-13T09:14:55.131Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-13T09:14:55.131Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-14T04:58:32.729Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-14T04:58:32.752Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-14T04:58:32.752Z"}
+{"level":"info","message":"Connected to MongoDB Atlas","timestamp":"2025-10-14T08:49:13.906Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-10-14T08:49:13.924Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-10-14T08:49:13.925Z"}
