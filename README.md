@@ -28,16 +28,18 @@ SoulSync is a **modern AI-powered therapy assistant** that helps users reflect, 
 
 ---
 
-## Tech Stack 🛠️
+## 🛠️ Tech Stack
 
-| Technology | Logo |
-|------------|------|
-| React.js | ![React](https://raw.githubusercontent.com/github/explore/main/topics/react/react.png) |
-| Tailwind CSS | ![Tailwind](https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png) |
-| Node.js | ![Node](https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png) |
-| Express.js | ![Express](https://raw.githubusercontent.com/github/explore/main/topics/express/express.png) |
-| PostgreSQL | ![Postgres](https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png) |
-| OpenAI GPT | ![OpenAI](https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg) |
-| JWT Authentication | ![JWT](https://raw.githubusercontent.com/github/explore/main/topics/json-web-token/json-web-token.png) |
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="50" title="React.js" /> &nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" width="50" title="Tailwind CSS" /> &nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="50" title="Node.js" /> &nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" width="50" title="Express.js" /> &nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="50" title="PostgreSQL" /> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" width="50" title="OpenAI GPT" /> &nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/json-web-token/json-web-token.png" width="50" title="JWT" />
+
+</div>|
 
 ---
