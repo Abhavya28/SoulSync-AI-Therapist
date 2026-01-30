@@ -18,12 +18,15 @@ SoulSync is a **modern AI-powered therapy assistant** that helps users reflect, 
 
 ## Screenshots 📸
 Dashboard
+
 ![Dashboard](./screenshots/Dashboard.png)
 
 Chatbot
+
 ![Chatbot](./screenshots/Chatbot.png)
 
 Activities
+
 ![Activities](./screenshots/Activities.png)
 
 ---
